@@ -3,10 +3,10 @@
  "repository": "https://github.com/iamgojoof6eyes/Source_Hider",
  "logo": "",
  "keywords": [ "bot","iamgojoof6eyes", "tag_hider" ],
- "success_url": "https://telegram./",
+ "success_url": "https://t.me/ezio18_bot",
  "env": {
  "BOT_TOKEN": 
-{"description":"Get This Value from https://telegram./BotFather",
+{"description":"Get This Value from https://t.me/BotFather",
  "value": ""}
 },
  "buildpacks":
