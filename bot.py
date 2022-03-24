@@ -1,6 +1,6 @@
 from telegram.ext import Filters,Updater,MessageHandler,CommandHandler
 from Commands.cmd import *
-from functions.functions import *
+from Functions.function import *
 from Setting_caption.caption import setCaption
 import os
 from config import Config
