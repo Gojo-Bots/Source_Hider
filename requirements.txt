@@ -1,1 +1,5 @@
-pyrogram
+
+
+
+
+python-telegram-bot
