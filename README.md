@@ -14,7 +14,7 @@ A python and pyrogram based telegram bot to hide forward tag in documents
  git clone https://github.com/iamgojoof6eyes/Source_Hider.git
  
  #Open The Folder📂
- cd ForwardTagRemoverBot
+ cd Source_Hider
  
  #Install requirements🎯
  pip install -r requirements.txt
@@ -31,7 +31,7 @@ A python and pyrogram based telegram bot to hide forward tag in documents
 ## Features 🔥
 
 - Hide **File Source** From Forwarded Files 😊
-- Support For **Adding Caption** To Audio,Files,Video And Voice 😊
+- Support For **Adding Caption** To Audio, Files, Video And Voice 😊
 - Going to add send file option to desired channel or group without tag in next update.
  
 ## Installation (Cloud) 🌩
@@ -40,15 +40,15 @@ A python and pyrogram based telegram bot to hide forward tag in documents
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/iamgojoof6eyes/Source_Hider/tree/main)
 
-Bot can't be deployed on railway trying to fix it...
+
 
 <!--### Railway
 [![DEPLOY](https://railway.app/button.svg)](https://railway.app)
 
 **Requirements**
-You should have a github account which is 30 days old
+You should have a GitHub account that is 30 days old
 
-Just click on the button it will redirect you to the railway app webstie....search the repo and add [variable](#Variables)
+Just click on the button it will redirect you to the railway app website....search the repo and add [variable](#Variables)
 
 -->
 <br/>
@@ -63,5 +63,7 @@ Just click on the button it will redirect you to the railway app webstie....sear
 # Made by :
 [Captain Ezio](https://github.com/iamgojoof6eyes)
 
-If get anyproblem contact me [Captain Ezio](https://t.me/iamgojoof6eyes)
+If get any problem contact me [Captain Ezio](https://t.me/iamgojoof6eyes)
+
+# If you want to give a pull request give it in the `base` branch
 
