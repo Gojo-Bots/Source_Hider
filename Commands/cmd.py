@@ -1,4 +1,4 @@
-from telegram import InlineKeyboardButton, InlineKeyboardMarkup,ParseMode
+from pyrogram import InlineKeyboardButton, InlineKeyboardMarkup,ParseMode
 from config import Config
 
 #Inline Keyboard Button
