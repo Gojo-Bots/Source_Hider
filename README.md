@@ -40,7 +40,7 @@ A python and pyrogram based telegram bot to hide forward tag in documents
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/iamgojoof6eyes/Source_Hider/tree/main)
 
-Bot can't be deployed on railway trying to fix it...
+
 
 <!--### Railway
 [![DEPLOY](https://railway.app/button.svg)](https://railway.app)
