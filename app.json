@@ -2,7 +2,7 @@
  "description": " A Telegram Bot To Hide Forward Source",
  "repository": "https://github.com/Gojo-Bots/Source_Hider",
  "logo": "https://te.legra.ph/file/dc6e0b631938b66e38626.jpg",
- "keywords": [ "bot","iamgojoof6eyes", "tag_hider" ],
+ "keywords": [ "bot","Gojo-Bots", "tag_hider" ],
  "success_url": "https://t.me/ezio18_bot",
  "env": {
  "BOT_TOKEN": 
