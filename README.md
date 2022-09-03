@@ -11,7 +11,7 @@ A python and pyrogram based telegram bot to hide forward tag in documents
 
 ```
  #Clone the repo👾
- git clone https://github.com/iamgojoof6eyes/Source_Hider.git
+ git clone https://github.com/Gojo-Bots/Source_Hider.git
  
  #Open The Folder📂
  cd Source_Hider
@@ -38,7 +38,7 @@ A python and pyrogram based telegram bot to hide forward tag in documents
 
 ### Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/iamgojoof6eyes/Source_Hider/tree/main)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Gojo-Bots/Source_Hider/tree/main)
 
 
 
