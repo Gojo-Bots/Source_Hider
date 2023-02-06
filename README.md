@@ -68,4 +68,4 @@ If get any problem contact me [Captain Ezio](https://t.me/iamgojoof6eyes)
 # If you want to give a pull request give it in the `base` branch
 
 # Powered by [ɢօʝօ ɮօȶֆ](https://github.com/Gojo-Bots)
-[![Gojo-Bots](https://raw.githubusercontent.com/Gojo-Bots/.github/main/Untitled(1).webp)](https://github.com/Gojo-Bots)
+[![Gojo-Bots](https://avatarfiles.alphacoders.com/339/339922.jpg)](https://github.com/Gojo-Bots)
